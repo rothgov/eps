@@ -1,2 +1,2 @@
-# eps
-Educational Psychology Service
+# design-manual
+Rotherham MBC Design System
