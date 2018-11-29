@@ -2,6 +2,6 @@
 Uses Rotherham Council Design System
 
 ## How to use
-@import css into Jadu 'Galaxies' style.css
+Import css into your main stylesheet
 
-https://rothgov.github.io/eps/css/style.css
+@import "https://rothgov.github.io/eps/css/style.css" screen;
