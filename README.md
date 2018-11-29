@@ -1,2 +1,2 @@
-# design-manual
-Rotherham MBC Design System
+# Rotherham Educational Psychology Service
+Uses Rotherham Council Design System
